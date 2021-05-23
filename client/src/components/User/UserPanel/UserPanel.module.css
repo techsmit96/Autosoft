@@ -1,0 +1,17 @@
+.approved_form {
+	width: 100%;
+	max-width: 330px;
+	padding: 15px;
+	margin: auto;
+	height: 100%;
+}
+.table_area {
+	width: 100%;
+	max-width: 900px;
+	padding: 15px;
+	margin: auto;
+	height: 100%;
+}
+p {
+	color: red;
+}

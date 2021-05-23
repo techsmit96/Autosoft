@@ -1,0 +1,3 @@
+{"_id":{"$oid":"60aa4d9b4bd1dc43f010af50"},"verified":true,"name":"Sumit","email":"sumitsakpal02@gmail.com","mobile":9.405264157E+09,"__v":0}
+{"_id":{"$oid":"60aa8ff3533fca0b1c891346"},"verified":true,"name":"Amit","email":"amit@gmail.com","mobile":8.945465165E+09,"__v":0}
+{"_id":{"$oid":"60aa9025533fca0b1c891347"},"verified":false,"name":"Dj","email":"dj@wala.com","mobile":8.956465165E+09,"__v":0}

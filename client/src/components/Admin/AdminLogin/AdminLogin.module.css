@@ -1,0 +1,11 @@
+.login_form {
+	width: 100%;
+	max-width: 330px;
+	padding: 15px;
+	margin: auto;
+	height: 100%;
+}
+
+p {
+	color: red;
+}
